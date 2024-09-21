@@ -164,8 +164,7 @@
 
 .lots {
   width: 1052px;
-  min-height: 692px; /*Считаю, что можно не убирать мягкое ограничение, т.к. выше вы советовали как раз мягкое ограничение для блока cover*/
-  margin: 0 auto 146px;
+  margin: 0 auto 147.6px;
 }
 
 .lots__heading {
@@ -263,7 +262,6 @@
   display: grid;
   grid-template-columns: 334px auto;
   width: 1052px;
-  min-height: 595px; /*Аналогично комменту выше*/
   margin: 0 auto 155.64px;
 }
 
